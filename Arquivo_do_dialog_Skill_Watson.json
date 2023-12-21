@@ -1,0 +1,2141 @@
+{
+  "intents": [
+    {
+      "intent": "acessibilidade",
+      "examples": [
+        {
+          "text": "Como funciona a funcionalidade de menu para tipos específicos de daltonismo no sistema Salesforce?"
+        },
+        {
+          "text": "Como posso ativar a opção de alto contraste no sistema Salesforce?"
+        },
+        {
+          "text": "Como posso desativar as configurações de acessibilidade se decidir que elas não são necessárias para mim?"
+        },
+        {
+          "text": "Existe alguma maneira de testar as configurações de acessibilidade antes de aplicá-las permanentemente?"
+        },
+        {
+          "text": "Gostaria de receber orientações sobre como configurar meu perfil para melhorar a acessibilidade."
+        },
+        {
+          "text": "Gostaria de saber mais sobre as opções de zoom disponíveis para tornar a interface mais acessível."
+        },
+        {
+          "text": "Posso personalizar as configurações de acessibilidade de acordo com as minhas necessidades?"
+        },
+        {
+          "text": "quais opções de assibilidade vocês possuem"
+        },
+        {
+          "text": "Quais são as melhores práticas para implementar acessibilidade em sistemas de software como o Salesforce?"
+        },
+        {
+          "text": "Quais são as opções de acessibilidade oferecidas para pessoas com daltonismo no Salesforce?"
+        },
+        {
+          "text": "quais tipos de acessibilidade vocês tem"
+        },
+        {
+          "text": "Quero saber mais sobre a experiência do usuário para aqueles que utilizam opções de alto contraste."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "atualizações",
+      "examples": [
+        {
+          "text": "Como as atualizações afetam a personalização e integração de terceiros no Salesforce?"
+        },
+        {
+          "text": "Como posso verificar as notas de lançamento para cada atualização do Salesforce?"
+        },
+        {
+          "text": "Como são implementadas as atualizações no sistema Salesforce?"
+        },
+        {
+          "text": "Existe um cronograma regular para as atualizações do Salesforce?"
+        },
+        {
+          "text": "Gostaria de saber mais sobre as novas funcionalidades introduzidas na última atualização do Salesforce."
+        },
+        {
+          "text": "Há algum suporte técnico adicional fornecido durante o período de atualização?"
+        },
+        {
+          "text": "Posso optar por adiar uma atualização se isso interferir nos processos da minha empresa?"
+        },
+        {
+          "text": "Posso personalizar as configurações de atualização para minha conta?"
+        },
+        {
+          "text": "preciso atualizar os meus dados"
+        },
+        {
+          "text": "Quais são os benefícios de manter sempre a versão mais recente do Salesforce?"
+        },
+        {
+          "text": "Quais são os procedimentos recomendados para preparar minha equipe para uma atualização?"
+        },
+        {
+          "text": "quero atualiazar os meus dados"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "cadastro",
+      "examples": [
+        {
+          "text": "Como faço para incluir novo cadastro?"
+        },
+        {
+          "text": "Como posso atualizar minhas preferências de comunicação no meu cadastro?"
+        },
+        {
+          "text": "Estou com dificuldades para acessar minha conta. Como posso recuperar meu cadastro?"
+        },
+        {
+          "text": "Existe uma maneira de receber notificações de promoções especiais após o cadastro?"
+        },
+        {
+          "text": "Gostaria de atualizar o meu cadastro"
+        },
+        {
+          "text": "Gostaria de excluir o meu cadastro"
+        },
+        {
+          "text": "Gostaria de saber se há um limite para a quantidade de informações que posso adicionar ao meu cadastro."
+        },
+        {
+          "text": "Pode me orientar sobre como alterar minha senha no meu cadastro?"
+        },
+        {
+          "text": "Posso cadastrar mais de um endereço de entrega na minha conta?"
+        },
+        {
+          "text": "Preciso adicionar informações adicionais ao meu cadastro. Como posso fazer isso?"
+        },
+        {
+          "text": "Quero revisar as informações no meu cadastro. Como faço para visualizar os detalhes?"
+        },
+        {
+          "text": "Quero transferir a propriedade da minha conta para outra pessoa. Como posso atualizar os detalhes do cadastro?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "comprar_produto",
+      "examples": [
+        {
+          "text": "estou interessado em comprar um produto"
+        },
+        {
+          "text": "Estou interessado em comprar vários produtos. Há descontos disponíveis para compras em grande quantidade?"
+        },
+        {
+          "text": "Eu gostaria de ajuda para comprar um produto"
+        },
+        {
+          "text": "Existe uma política de devolução ou garantia para os produtos adquiridos?"
+        },
+        {
+          "text": "Gostaria de comprar um produto"
+        },
+        {
+          "text": "Gostaria de comprar um produto pode me ajudar?"
+        },
+        {
+          "text": "Gostaria de saber os valores de alguns produtos."
+        },
+        {
+          "text": "Gostaria de saber o valor de um produto"
+        },
+        {
+          "text": "Gostaria de saber qual o melhor produto para a minha empresa."
+        },
+        {
+          "text": "Me ajuda a comprar um produto?"
+        },
+        {
+          "text": "Qual o melhor produto para eu utilizar na minha empresa."
+        },
+        {
+          "text": "Qual produto você poderia me recomendar?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "conhecer_produto",
+      "examples": [
+        {
+          "text": "conhecer mais produtos"
+        },
+        {
+          "text": "conhecer os produtos salesforce"
+        },
+        {
+          "text": "gostaria de conhecer os produtos"
+        },
+        {
+          "text": "gostaria de conhecer os produtos salesforce"
+        },
+        {
+          "text": "gostaria de conhecer um produto"
+        },
+        {
+          "text": "mais dados sobre os produtos de vocês"
+        },
+        {
+          "text": "mais informações sobre o produto de vocês"
+        },
+        {
+          "text": "preciso de informações sobre os produtos de vocês"
+        },
+        {
+          "text": "quais são os produtos disponiveis"
+        },
+        {
+          "text": "quero informações sobre os produtos de vocês"
+        },
+        {
+          "text": "que tipo de produtos vocês disponibilizam"
+        },
+        {
+          "text": "saber mais sobre os produtos"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "CRM",
+      "examples": [
+        {
+          "text": "Como o CRM da Salesforce facilita a gestão de leads e oportunidades de vendas?"
+        },
+        {
+          "text": "Estou buscando uma solução de CRM para minha pequena empresa. Como o Salesforce atende às necessidades de empresas de menor porte?"
+        },
+        {
+          "text": "Estou interessado em adquirir uma licença do seu software CRM"
+        },
+        {
+          "text": "Estou interessado na integração do CRM com plataformas de e-commerce. O Salesforce oferece suporte a essa integração?"
+        },
+        {
+          "text": "Gostaria de entender como a inteligência artificial é incorporada ao CRM da Salesforce para melhorar a eficiência."
+        },
+        {
+          "text": "Pode me fornecer casos de sucesso de empresas semelhantes à nossa que implementaram o CRM da Salesforce?"
+        },
+        {
+          "text": "Por que deveria usar o CRM da Salesforce?"
+        },
+        {
+          "text": "Posso obter mais informações sobre a funcionalidade de automação de marketing em seu CRM?"
+        },
+        {
+          "text": "Posso personalizar os campos no CRM para atender às necessidades exclusivas do meu setor?"
+        },
+        {
+          "text": "Quais são os benefícios específicos que o CRM da Salesforce oferece em comparação com outras soluções do mercado?"
+        },
+        {
+          "text": "Quais são os custos associados à implementação e manutenção do CRM da Salesforce em comparação com outras opções no mercado?"
+        },
+        {
+          "text": "Qual é a abordagem da Salesforce em relação à privacidade e segurança dos dados no CRM?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "despedida",
+      "examples": [
+        {
+          "text": "Adeus"
+        },
+        {
+          "text": "até mais"
+        },
+        {
+          "text": "fui"
+        },
+        {
+          "text": "Legal, valeu!"
+        },
+        {
+          "text": "Muito obrigado senhor bot!"
+        },
+        {
+          "text": "Obrigado pela ajuda!"
+        },
+        {
+          "text": "obrigado por tirar as minhas duvidas"
+        },
+        {
+          "text": "Obrigado você pela ajuda!"
+        },
+        {
+          "text": "obrigado vou sair"
+        },
+        {
+          "text": "tchau obrigado"
+        },
+        {
+          "text": "tchau valeu"
+        },
+        {
+          "text": "vlw obrigado"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "falar_atendente",
+      "examples": [
+        {
+          "text": "entrar em contato com um atendente"
+        },
+        {
+          "text": "falar com um atendente"
+        },
+        {
+          "text": "falar com um atendente o quanto antes"
+        },
+        {
+          "text": "Gostaria de falar com um atendente"
+        },
+        {
+          "text": "necessito falar com atendente"
+        },
+        {
+          "text": "preciso entrar em contato com um atendente"
+        },
+        {
+          "text": "preciso falar com um atendente"
+        },
+        {
+          "text": "preciso falar com um atendente urgente"
+        },
+        {
+          "text": "quero entrar em contato com um atendente"
+        },
+        {
+          "text": "quero falar com um atendente"
+        },
+        {
+          "text": "tenho que falar com um atendente"
+        },
+        {
+          "text": "urgente quero falar com atendente"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "orçamento",
+      "examples": [
+        {
+          "text": "Existe uma taxa adicional para suporte técnico após o horário comercial?"
+        },
+        {
+          "text": "Existe um plano gratuito disponível para a Salesforce?"
+        },
+        {
+          "text": "Gostaria de receber um orçamento personalizado para a nossa empresa"
+        },
+        {
+          "text": "Gostaríamos de entender os custos envolvidos na migração dos nossos dados para a plataforma Salesforce."
+        },
+        {
+          "text": "Pode fornecer uma cotação detalhada para os serviços de consultoria associados à implementação do Salesforce?"
+        },
+        {
+          "text": "Podemos receber uma estimativa de custos para personalizações específicas no Salesforce?"
+        },
+        {
+          "text": "Poderíamos receber um orçamento detalhado para treinamento personalizado da equipe no uso do Salesforce?"
+        },
+        {
+          "text": "Posso obter um orçamento para a licença do Salesforce para minha equipe?"
+        },
+        {
+          "text": "Quais são as opções de pagamento disponíveis para as licenças do Salesforce?"
+        },
+        {
+          "text": "Qual é o custo associado à implementação do Salesforce na nossa infraestrutura atual?"
+        },
+        {
+          "text": "Qual é o orçamento estimado para a integração do Salesforce com nossos sistemas existentes?"
+        },
+        {
+          "text": "Quanto custaria para adicionar mais usuários à nossa conta?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "parcerias",
+      "examples": [
+        {
+          "text": "Como a Salesforce escolhe suas empresas parceiras renomadas?"
+        },
+        {
+          "text": "Como a Salesforce promove suas parcerias com empresas renomadas como a BMW e a Coca-Cola?"
+        },
+        {
+          "text": "como funcionam as parcerias"
+        },
+        {
+          "text": "Como posso propor uma parceria com a Salesforce para minha empresa?"
+        },
+        {
+          "text": "Existe alguma vantagem específica para empresas que se tornam parceiras da Salesforce?"
+        },
+        {
+          "text": "Há algum programa de benefícios exclusivos para clientes provenientes de empresas parceiras?"
+        },
+        {
+          "text": "Posso receber informações sobre eventos exclusivos para parceiros Salesforce?"
+        },
+        {
+          "text": "Quais são as oportunidades de networking disponíveis para empresas parceiras da Salesforce?"
+        },
+        {
+          "text": "Quais são os critérios para aparecer no carrossel de empresas parceiras na página inicial?"
+        },
+        {
+          "text": "Quais são os requisitos para ser destacado no carrossel de parcerias na página inicial?"
+        },
+        {
+          "text": "Quero saber mais sobre a experiência de outras empresas que se tornaram parceiras da Salesforce."
+        },
+        {
+          "text": "quero saber mais sobre as parcerias"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "produto_duvida",
+      "examples": [
+        {
+          "text": "é possivel fazer um teste gratuito?"
+        },
+        {
+          "text": "Existe periodo de teste gratuito?"
+        },
+        {
+          "text": "Existe uma opção de teste gratuito disponível antes de comprar?"
+        },
+        {
+          "text": "ha quantos produtos disponiveis"
+        },
+        {
+          "text": "poderia me enviar uma lista de produtos"
+        },
+        {
+          "text": "posso fazer um periodo de teste gratuito?"
+        },
+        {
+          "text": "quero saber mais sobre um produto"
+        },
+        {
+          "text": "quero saber sobre um determinado produto"
+        },
+        {
+          "text": "Tem opção de teste?"
+        },
+        {
+          "text": "tem opção de teste de graça?"
+        },
+        {
+          "text": "Teria como testar gratuitamente por um periodo?"
+        },
+        {
+          "text": "teria uma descrição melhor do produto"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "relatórios",
+      "examples": [
+        {
+          "text": "como faço para gerar um relatório"
+        },
+        {
+          "text": "Como posso criar relatórios personalizados no Salesforce?"
+        },
+        {
+          "text": "Como posso personalizar os critérios de filtro nos meus relatórios?"
+        },
+        {
+          "text": "Existe alguma função de relatório que ajude a identificar tendências de vendas ao longo do tempo?"
+        },
+        {
+          "text": "Existe uma maneira de agendar a geração automática de relatórios?"
+        },
+        {
+          "text": "Gostaria de saber como compartilhar relatórios com membros específicos da minha equipe."
+        },
+        {
+          "text": "Há algum treinamento específico para aprender a criar relatórios avançados no Salesforce?"
+        },
+        {
+          "text": "Posso criar relatórios que mostrem a eficácia das campanhas de marketing no Salesforce?"
+        },
+        {
+          "text": "Posso exportar relatórios do Salesforce para outros formatos, como PDF ou Excel?"
+        },
+        {
+          "text": "Quais são as opções de visualização disponíveis para relatórios no Salesforce?"
+        },
+        {
+          "text": "Quais são os limites de armazenamento para relatórios no Salesforce?"
+        },
+        {
+          "text": "quero gerar um relatório"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "saudacao",
+      "examples": [
+        {
+          "text": "bom dia"
+        },
+        {
+          "text": "e ae"
+        },
+        {
+          "text": "eae"
+        },
+        {
+          "text": "e ae tudo bem"
+        },
+        {
+          "text": "oi"
+        },
+        {
+          "text": "oi tudo bem"
+        },
+        {
+          "text": "ola"
+        },
+        {
+          "text": "olá como vai"
+        },
+        {
+          "text": "olá tudo bem"
+        },
+        {
+          "text": "opa"
+        },
+        {
+          "text": "opa como vai"
+        },
+        {
+          "text": "salve"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "segurança",
+      "examples": [
+        {
+          "text": "Como a Salesforce lida com questões de conformidade e regulamentação de segurança?"
+        },
+        {
+          "text": "Como posso configurar permissões de acesso para diferentes usuários no Salesforce?"
+        },
+        {
+          "text": "Como posso monitorar atividades suspeitas na minha conta Salesforce?"
+        },
+        {
+          "text": "Estou interessado em saber mais sobre os protocolos de criptografia utilizados pelo Salesforce."
+        },
+        {
+          "text": "Existe autenticação de dois fatores disponível para contas Salesforce?"
+        },
+        {
+          "text": "Gostaria de entender como os registros de auditoria funcionam no Salesforce para rastrear atividades de usuários."
+        },
+        {
+          "text": "Há alguma ferramenta de segurança adicional que posso integrar ao Salesforce para reforçar a proteção?"
+        },
+        {
+          "text": "Posso definir políticas de senha específicas para os usuários na minha equipe?"
+        },
+        {
+          "text": "Posso restringir o acesso a determinadas informações sensíveis no Salesforce?"
+        },
+        {
+          "text": "Quais são as medidas de segurança implementadas no Salesforce para proteger os dados dos clientes?"
+        },
+        {
+          "text": "Quais são as práticas recomendadas para garantir a segurança dos dados na plataforma Salesforce?"
+        },
+        {
+          "text": "Quais são os procedimentos de recuperação de conta em caso de acesso não autorizado?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "suporte_tecnicoi",
+      "examples": [
+        {
+          "text": "Como posso acessar o suporte ao cliente da Salesforce para relatar um problema mais complexo?"
+        },
+        {
+          "text": "Como posso configurar notificações automáticas para alertar nossa equipe de TI sobre possíveis problemas no Salesforce?"
+        },
+        {
+          "text": "Como posso verificar o status de uma solicitação de suporte técnico anterior?"
+        },
+        {
+          "text": "Estamos enfrentando lentidão no sistema Salesforce. Como podemos obter assistência técnica para resolver esse problema?"
+        },
+        {
+          "text": "Estou enfrentando problemas ao tentar fazer login na minha conta Salesforce. Você pode me ajudar a resolver isso?"
+        },
+        {
+          "text": "Estou interessado em saber mais sobre as políticas de garantia e manutenção associadas às soluções Salesforce."
+        },
+        {
+          "text": "Existe um tempo de resposta padrão para as solicitações de suporte técnico? Preciso de orientação sobre como atualizar para a versão mais recente do Salesforce. Como posso obter suporte nesse processo?"
+        },
+        {
+          "text": "falar com suporte tecnico"
+        },
+        {
+          "text": "Poderia me fornecer informações detalhadas sobre os níveis de suporte técnico oferecidos pela Salesforce?"
+        },
+        {
+          "text": "precso de ajuda com o suporte tecnico"
+        },
+        {
+          "text": "Quais são os canais disponíveis para entrar em contato com o suporte técnico da Salesforce? Estou tendo dificuldades com a integração de um aplicativo de terceiros. O suporte técnico pode ajudar com isso?"
+        },
+        {
+          "text": "Quero saber mais sobre o suporte técnico e as atualizações oferecidas"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Treinamentos",
+      "examples": [
+        {
+          "text": "Como posso agendar sessões de treinamento personalizadas para a minha equipe, de acordo com nossa disponibilidade?"
+        },
+        {
+          "text": "Como posso começar a aprender desenvolvimento no Trailhead?"
+        },
+        {
+          "text": "Estou interessado em obter certificações específicas da Salesforce. Quais são os requisitos para os cursos de preparação?"
+        },
+        {
+          "text": "Estou interessado em treinamento em Salesforce. Quais são as opções disponíveis?"
+        },
+        {
+          "text": "Estou procurando treinamento específico em relatórios e análises no Salesforce. Existem cursos especializados disponíveis?"
+        },
+        {
+          "text": "Existe suporte de treinamento dedicado para a implementação de soluções avançadas no Salesforce?"
+        },
+        {
+          "text": "Gostaria de criar um Trailmix personalizado para treinar minha equipe em vendas no Salesforce. Como faço isso?"
+        },
+        {
+          "text": "Gostaria de saber mais sobre os recursos de aprendizado online em tempo real oferecidos pela Salesforce University."
+        },
+        {
+          "text": "Posso receber orientações sobre a melhor trilha de aprendizado para aprimorar minhas habilidades de administração no Salesforce?"
+        },
+        {
+          "text": "Quais são os custos associados aos programas de treinamento oferecidos pela Salesforce?"
+        },
+        {
+          "text": "Quais são os recursos de aprendizado gamificados disponíveis no Trailhead para tornar o treinamento mais envolvente? Espero que essas sugestões sejam"
+        },
+        {
+          "text": "Qual a diferença entre a Salesforce University e Trailhead em questão de treinamento?"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "cidade",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Belo Horizonte",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Brasilia",
+          "synonyms": [
+            "distrito federal"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Curitiba",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Fortaleza",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Goiania",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "manaus",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Porto Alegre",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Recife",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Rio de Janeiro",
+          "synonyms": [
+            "cidade maravilhosa"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "salvador",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "São Paulo",
+          "synonyms": [
+            "sampa",
+            "terra da garoa"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "país",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Alemanha",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Arábia Saudita",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Argélia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Argentina",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Austrália",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Brasil",
+          "synonyms": [
+            "Braza",
+            "Brazuca"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Canadá",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Cazaquistão",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Chile",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "China",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Estados Unidos",
+          "synonyms": [
+            "EUA"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "India",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "México",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Peru",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Rússia",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "produto",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Atendimento ao cliente",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Commerce",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Custumer 360",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Data Cloud",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Marketing",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "MuleSoft",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Pequenas empresas",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Plataforma",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "||     @produto:",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Sustentabilidade",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Tableau",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Vendas",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": false
+    },
+    {
+      "entity": "quantidade_funcionarios",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "100 mil",
+          "synonyms": [
+            "100.000",
+            "100000",
+            "até 100.000",
+            "até 100000",
+            "até 100 mil "
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "10 mil",
+          "synonyms": [
+            "10.000",
+            "10.000 mil",
+            "até 10.000",
+            "até 10 mil"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "15 mil",
+          "synonyms": [
+            "15.000",
+            "15000 mil",
+            "até 15.000",
+            "até 15 mil"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1 mil",
+          "synonyms": [
+            "1.000",
+            "1000",
+            "até 1.000",
+            "até 1000",
+            "mil"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "20 mil",
+          "synonyms": [
+            "20.000",
+            "20.000 mil",
+            "até 20.000",
+            "até 20 mil"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "30 mil",
+          "synonyms": [
+            "30000",
+            "até 30.000 ",
+            "até 30000",
+            "até 30 mil"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "500",
+          "synonyms": [
+            "até 500 "
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "50 mil",
+          "synonyms": [
+            "50.000",
+            "50000",
+            "até 50.000",
+            "até 50000",
+            "até 50 mil"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "5 mil",
+          "synonyms": [
+            "5.000",
+            "5000",
+            "até 5.000",
+            "até 5.000 mil",
+            "até 5 mil"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "70 mil",
+          "synonyms": [
+            "70.000",
+            "70000",
+            "até 70.000",
+            "até 70000",
+            "até 70 mil"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "acima de 100 mil",
+          "synonyms": [
+            "acima de 100",
+            "acima de 100.000",
+            "acima de 100000",
+            "acima de 100.000 mil",
+            "acima de 100 mil"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "saudacao",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "boa noite",
+          "synonyms": [
+            "e ae boa noite ",
+            "ola boa noite",
+            "opa boa noite"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "boa tarde",
+          "synonyms": [
+            "eae boa tarde",
+            "ola boa tarde",
+            "opa boa tarde"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "bom dia",
+          "synonyms": [
+            "eae bom dia",
+            "ola bom dia ",
+            "opa bom dia"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ola",
+          "synonyms": [
+            "e ae",
+            "eae",
+            "oi",
+            "opa"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "segmento",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Alimentício e Bebidas",
+          "synonyms": [
+            "Alimenticio",
+            "Alimentos",
+            "Bebidas"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Automotivo",
+          "synonyms": [
+            "Carros"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Construcao",
+          "synonyms": [
+            "Construção Civil"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Consultoria",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Educação",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Energia e Utilidades",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Entretenimento e Mídia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Imobiliário",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Indústria Manufatureira",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Saúde e Cuidados com a Saúde",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Serviços Financeiros",
+          "synonyms": [
+            "Financeiro"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Tecnologia da Informação",
+          "synonyms": [
+            "Tecnologia",
+            "T.I"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Telecomunicações",
+          "synonyms": [
+            "telemarketing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Transporte e Logística",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Turismo",
+          "synonyms": [
+            "viagens"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Varejo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Varejo de Vestuário",
+          "synonyms": [
+            "roupas"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Vendas",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sim-nao",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "não",
+          "synonyms": [
+            "não",
+            "não obrigado",
+            "negativo",
+            "nem",
+            "sqn"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sim",
+          "synonyms": [
+            "beleza",
+            "blz",
+            "claro",
+            "de acordo",
+            "ok",
+            "ta bom",
+            "tudo bem"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": []
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá! Sou o Chatbot da SalesForce, por gentileza qual o seu nome?"
+              },
+              {
+                "text": "Bem vindo, sou o bot da SalesForce antes de começar, por gentileza qual é o seu nome?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {},
+      "conditions": "welcome",
+      "dialog_node": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Em outros casos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Desculpe não consegui entender, poderia reformular a sua pergunta."
+              },
+              {
+                "text": "Não estou entendendo, por gentileza pergunte novamente."
+              },
+              {
+                "text": "Novamente não entendi. Poderia fazer a sua pergunta de outra forma?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "digress_in": "does_not_return",
+      "dialog_node": "Em outros casos",
+      "previous_sibling": "node_4_1700865923550",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "event_handler",
+      "parent": "node_9_1700756530652",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1700758472628",
+      "previous_sibling": "node_7_1700927270680"
+    },
+    {
+      "type": "event_handler",
+      "parent": "Bem-vindo",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1700884085727"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1700928038168",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1700928038169",
+      "previous_sibling": "handler_6_1700928038169"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_4_1700928038168",
+      "event_name": "input",
+      "dialog_node": "handler_6_1700928038169"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_1_1700758473197",
+      "event_name": "input",
+      "dialog_node": "handler_9_1700758473197"
+    },
+    {
+      "type": "standard",
+      "title": "mensagem agradecimento final",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Agora basta aguardar e em breve um de nossos consultores entrará em contato com você através do numero @sys-number, a SalesForce agradece o seu contato!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1700787191431",
+      "conditions": "true",
+      "dialog_node": "node_10_1700787342971"
+    },
+    {
+      "type": "standard",
+      "title": "Informar o produto desejado caminho 2",
+      "parent": "node_7_1700762798180",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@produto:(Pequenas empresas)",
+      "dialog_node": "node_10_1700872654884",
+      "previous_sibling": "node_7_1700783446612"
+    },
+    {
+      "type": "standard",
+      "title": "falar com atendente",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok $nome, deixe seu numero de telefone e um de nossos atendentes entrara em contato com você em breve."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#falar_atendente",
+      "dialog_node": "node_10_1700925465456",
+      "previous_sibling": "node_2_1700930226132"
+    },
+    {
+      "type": "standard",
+      "title": "Informar o produto desejado caminho 3",
+      "parent": "node_7_1700762798180",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@produto:Plataforma",
+      "dialog_node": "node_1_1700872836479",
+      "previous_sibling": "node_10_1700872654884"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A Sales Force agradece o seu contato, volte sempre!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1700787002571",
+      "conditions": "@sim-nao:não",
+      "dialog_node": "node_2_1700787264325",
+      "previous_sibling": "node_4_1700787191431"
+    },
+    {
+      "type": "standard",
+      "title": "conhecer produto",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok $nome, basta acessar o link \" https://www.salesforce.com/br/products/#products-scroll-tab \" e você será direcionado para a nossa pagina com mais informações sobre nossos produtos!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#conhecer_produto",
+      "dialog_node": "node_2_1700930226132",
+      "previous_sibling": "node_9_1700756530652"
+    },
+    {
+      "type": "standard",
+      "title": "compras",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Legal $nome vou te ajudar, irei fazer algumas perguntas para selecionar o melhor produto para você tudo bem?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#comprar_produto",
+      "dialog_node": "node_3_1700756516530",
+      "previous_sibling": "node_10_1700925465456"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para darmos continuidade, nos informe o seu melhor numero de telefone para que um de nosso consultores entre em contato com você."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1700787002571",
+      "conditions": "@sim-nao:sim",
+      "dialog_node": "node_4_1700787191431",
+      "previous_sibling": "response_10_1700957094919"
+    },
+    {
+      "type": "standard",
+      "title": "Despedida",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$nome a  Sales Force agradece o seu contato!"
+              },
+              {
+                "text": "Muito obrigado $nome gradecemos o seu contato!"
+              },
+              {
+                "text": "Obrigado $nome, para mais informações estamos a disposição!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#despedida",
+      "dialog_node": "node_4_1700865923550",
+      "previous_sibling": "node_8_1700759666272"
+    },
+    {
+      "type": "standard",
+      "title": "continuação",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá $nome  é um prazer atender você! Gostaria de conhecer nossos proodutos, comprar algum produto, falar com um de nossos atendentes ou se preferir envie a sua duvida."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Bem-vindo",
+      "context": {
+        "nome": "<?input.text?>"
+      },
+      "conditions": "true",
+      "dialog_node": "node_5_1700760198936",
+      "previous_sibling": "handler_1_1700884085727"
+    },
+    {
+      "type": "standard",
+      "title": "Informar o pais de implementação",
+      "parent": "node_7_1700784195556",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@país:Alemanha || @país:Argentina || @país:Brasil || @país:Brasil || @país:Chile || @país:China || @país:(Estados Unidos)",
+      "dialog_node": "node_5_1700786791103",
+      "previous_sibling": "response_8_1700874265080"
+    },
+    {
+      "type": "standard",
+      "title": "Informar o produto desejado caminho 4",
+      "parent": "node_7_1700762798180",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@produto:Tableau ||                         @produto:(Data Cloud) || @produto:Commerce ||                     @produto:(Custumer 360) || @produto:Marketing || @produto:MuleSoft || @produto:Sustentabilidade || @produto:Vendas",
+      "dialog_node": "node_6_1700763372303",
+      "previous_sibling": "node_1_1700872836479"
+    },
+    {
+      "type": "standard",
+      "title": "Pergunta sim ou não",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$nome você tem preferência por algum produto?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1700756516530",
+      "conditions": "@sim-nao:sim",
+      "dialog_node": "node_7_1700762798180"
+    },
+    {
+      "type": "standard",
+      "title": "Informar o produto desejado caminho 1",
+      "parent": "node_7_1700762798180",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@produto:(Atendimento ao cliente)",
+      "dialog_node": "node_7_1700783446612"
+    },
+    {
+      "type": "standard",
+      "title": "Informar o segmento da empresa",
+      "parent": "node_6_1700763372303",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@segmento:Turismo ||                        @segmento:(Entretenimento e Mídia) ||                      @segmento:(Transporte e Logística) ||                     @segmento:(Transporte e Logística) ||                    @segmento:(Alimentício e Bebidas) || @segmento:Educação ||                @segmento:(Serviços Financeiros) ||               @segmento:(Tecnologia da Informação) || @segmento:Varejo || @segmento:Vendas ||           @segmento:(Energia e Utilidades) || @segmento:Automotivo || @segmento:Construcao || @segmento:Consultoria ||       @segmento:(Indústria Manufatureira) ||      @segmento:(Saúde e Cuidados com a Saúde) || @segmento:Telecomunicações",
+      "dialog_node": "node_7_1700784195556",
+      "previous_sibling": "response_1_1700870160352"
+    },
+    {
+      "type": "standard",
+      "title": "Encerramento",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A Sales Force agradece o seu contato!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1700787342971",
+      "conditions": "#agradecimento",
+      "dialog_node": "node_7_1700787537005"
+    },
+    {
+      "type": "standard",
+      "title": "entrar em contato com atendente",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok $nome, entraremos em contato atraves do numero @sys-number. Obrigado!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1700925465456",
+      "conditions": "true",
+      "dialog_node": "node_7_1700925582287"
+    },
+    {
+      "type": "standard",
+      "title": "continuação",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá $nome  é um prazer atender você! Gostaria de conhecer nossos proodutos, comprar algum produto, falar com um de nossos atendentes ou se preferir envie a sua duvida."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1700756530652",
+      "context": {
+        "nome": "<?input.text?>"
+      },
+      "conditions": "true",
+      "dialog_node": "node_7_1700927270680"
+    },
+    {
+      "type": "standard",
+      "title": "duvidas",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#CRM || #produto_duvida",
+      "dialog_node": "node_8_1700759666272",
+      "previous_sibling": "node_3_1700756516530"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok, este chat será encerrado obrigado $nome!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1700756516530",
+      "conditions": "@sim-nao:não",
+      "dialog_node": "node_8_1700782834691",
+      "previous_sibling": "node_7_1700762798180"
+    },
+    {
+      "type": "standard",
+      "title": "Informa a quantidade de funcionarios",
+      "parent": "node_5_1700786791103",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@quantidade_funcionarios:500 ||             @quantidade_funcionarios:(1 mil) ||  @quantidade_funcionarios:(5 mil) ||           @quantidade_funcionarios:(10 mil) || @quantidade_funcionarios:(15 mil) ||         @quantidade_funcionarios:(20 mil) ||        @quantidade_funcionarios:(30 mil) ||       @quantidade_funcionarios:(50 mil) ||      @quantidade_funcionarios:(70 mil) ||    @quantidade_funcionarios:(100 mil) ||   @quantidade_funcionarios:(acima de 100 mil)",
+      "dialog_node": "node_8_1700787002571",
+      "previous_sibling": "response_4_1700876634822"
+    },
+    {
+      "type": "frame",
+      "title": "saudação",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@saudacao_formal || @saudacao",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1700756530652",
+      "previous_sibling": "Bem-vindo"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem $nome, basta acessar o link  https://www.salesforce.com/br/products/platform/overview/  para saber mais informações sobre o produto \"@produto\". "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1700872836479",
+      "conditions": "@produto",
+      "dialog_node": "response_10_1700872886765"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Obrigado pelas informações, com base nos dados fornecidos, o valor estimado para o produto desejado será  em torno de $11.500,00 gostaria de dar andamento no seu pedido?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1700787002571",
+      "conditions": "@quantidade_funcionarios:(5 mil)",
+      "dialog_node": "response_10_1700956689413",
+      "previous_sibling": "response_3_1700956042891"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Obrigado pelas informações, com base nos dados fornecidos, o valor estimado para o produto desejado será  em torno de $23.000,00 gostaria de dar andamento no seu pedido?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1700787002571",
+      "conditions": "@quantidade_funcionarios:(10 mil)",
+      "dialog_node": "response_10_1700956767414",
+      "previous_sibling": "response_10_1700956689413"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para esta quantidades superiores a 100 mil colaboradores os orçamentos serão passados apenas pelos nossos consultores."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1700787002571",
+      "conditions": "@quantidade_funcionarios:(acima de 100 mil)",
+      "dialog_node": "response_10_1700957094919",
+      "previous_sibling": "response_5_1700957039512"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " @saudacao qual é  o seu nome?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1700756530652",
+      "conditions": "@saudacao",
+      "dialog_node": "response_1_1700758471643",
+      "previous_sibling": "slot_1_1700758473197"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Legal $nome antes de falarmos mais sobre o produto \"@produto\" nos informe o segmento da sua empresa?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1700763372303",
+      "conditions": "@produto",
+      "dialog_node": "response_1_1700870160352"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem $nome, basta acessar o link  https://www.salesforce.com/br/products/service-cloud/overview/  para saber mais informações sobre o produto \"@produto\"."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1700783446612",
+      "conditions": "@produto",
+      "dialog_node": "response_1_1700871768985"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Obrigado pelas informações, com base nos dados fornecidos, o valor estimado para o produto desejado será  em torno de $46.000,00 gostaria de dar andamento no seu pedido?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1700787002571",
+      "conditions": "@quantidade_funcionarios:(20 mil)",
+      "dialog_node": "response_1_1700956879315",
+      "previous_sibling": "response_4_1700956820296"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Obrigado pelas informações, com base nos dados fornecidos, o valor estimado para o produto desejado será  em torno de $115.000,00 gostaria de dar andamento no seu pedido?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1700787002571",
+      "conditions": "@quantidade_funcionarios:(50 mil)",
+      "dialog_node": "response_1_1700956957004",
+      "previous_sibling": "response_5_1700956921592"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sim $nome, oferecemos uma opção de teste gratuito para que você possa experimentar nossos serviços antes de fazer uma compra. Você pode se inscrever para um teste gratuito em nosso site oficial e explorar as funcionalidades da Salesforce por um período determinado."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1700759666272",
+      "conditions": "#produto_duvida",
+      "dialog_node": "response_3_1700928962132",
+      "previous_sibling": "response_8_1700928942393"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Obrigado pelas informações, com base nos dados fornecidos, o valor estimado para o produto desejado erá  em torno de $2.300,00 gostaria de dar andamento no seu pedido?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1700787002571",
+      "conditions": "@quantidade_funcionarios:(1 mil)",
+      "dialog_node": "response_3_1700956042891",
+      "previous_sibling": "response_5_1700955399244"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Por gentileza $nome agora nos informe a quantidade funcionários que a sua empresa no(a) @país possui, até 500, até 1 mil, até 5 mil, até 10 mil, até 15 mil, até 20 mil, até 30  mil, até 50 mil, até 70 mil, até 100 mil ou acima de 100 mil, iinforme uma das opções valor cheio conforme exemplos:"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1700786791103",
+      "conditions": "@país",
+      "dialog_node": "response_4_1700876634822"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Obrigado pelas informações, com base nos dados fornecidos, o valor estimado para o produto desejado será  em torno de $34.500,00 gostaria de dar andamento no seu pedido?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1700787002571",
+      "conditions": "@quantidade_funcionarios:(15 mil)",
+      "dialog_node": "response_4_1700956820296",
+      "previous_sibling": "response_10_1700956767414"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Obrigado pelas informações, com base nos dados fornecidos, o valor estimado para o produto desejado será  em torno de $1.150,00 gostaria de dar andamento no seu pedido?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1700787002571",
+      "conditions": "@quantidade_funcionarios:500",
+      "dialog_node": "response_5_1700955399244"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Obrigado pelas informações, com base nos dados fornecidos, o valor estimado para o produto desejado será  em torno de $69.000,00 gostaria de dar andamento no seu pedido?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1700787002571",
+      "conditions": "@quantidade_funcionarios:(30 mil)",
+      "dialog_node": "response_5_1700956921592",
+      "previous_sibling": "response_1_1700956879315"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Obrigado pelas informações, com base nos dados fornecidos, o valor estimado para o produto desejado será  em torno de $230.000,00 gostaria de dar andamento no seu pedido?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1700787002571",
+      "conditions": "@quantidade_funcionarios:(100 mil)",
+      "dialog_node": "response_5_1700957039512",
+      "previous_sibling": "response_7_1700956997010"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tudo bem $nome, basta acessar o link  https://www.salesforce.com/br/solutions/small-business-solutions/overview/  para saber mais informações sobre o produto \"@produto\"."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1700872654884",
+      "conditions": "@produto",
+      "dialog_node": "response_7_1700872707064"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Obrigado pelas informações, com base nos dados fornecidos, o valor estimado para o produto desejado será  em torno de $161.000,00 gostaria de dar andamento no seu pedido?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1700787002571",
+      "conditions": "@quantidade_funcionarios:(70 mil)",
+      "dialog_node": "response_7_1700956997010",
+      "previous_sibling": "response_1_1700956957004"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Muito bom uma empresa do segmento de @segmento, agora por gentileza informe para qual pais deseja implementar o nosso produto?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1700784195556",
+      "conditions": "@segmento",
+      "dialog_node": "response_8_1700874265080"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$nome o CRM da Salesforce é líder de mercado devido à sua plataforma completa e escalabilidade. Oferece inovação contínua, integrações robustas, suporte de qualidade e segurança de dados. Ao escolhê-lo, você se beneficia de uma comunidade global de usuários e aprimora a eficiência de suas operações de vendas, marketing e atendimento ao cliente, impulsionando o sucesso empresarial."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1700759666272",
+      "conditions": "#CRM",
+      "dialog_node": "response_8_1700928942393"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Como é o seu nome?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1700756530652",
+      "conditions": "anything_else",
+      "dialog_node": "response_9_1700873604946",
+      "previous_sibling": "response_1_1700758471643"
+    },
+    {
+      "type": "slot",
+      "parent": "node_9_1700756530652",
+      "dialog_node": "slot_1_1700758473197",
+      "previous_sibling": "handler_1_1700758472628"
+    },
+    {
+      "type": "slot",
+      "parent": "node_7_1700927270680",
+      "dialog_node": "slot_4_1700928038168"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "ola"
+    }
+  ],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nenhuma das anteriores",
+      "use_connect_to_support_prompt": "Connect to support",
+      "single_answer_clarification_prompt": "Something else"
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    }
+  },
+  "learning_opt_out": false,
+  "language": "pt-br",
+  "description": "",
+  "name": "Atendimento ao cliente/vendas"
+}

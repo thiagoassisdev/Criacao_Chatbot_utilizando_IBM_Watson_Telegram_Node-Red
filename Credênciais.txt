@@ -1,0 +1,25 @@
+Credenciais dos serviços ultilizados:
+
+
+Nó Watson Assistant 
+-api: VohP2tCZ-rRWewr2y-YV_jMKWsCzcLYct6kn8zOlRFBF
+-url: https://api.au-syd.assistant.watson.cloud.ibm.com/instances/7324178e-830f-4ccf-89b8-49a36d59d633
+-ID:: 62e2b740-da1c-4cb7-8b2b-27fee64dd1be
+
+
+Nó TTS
+-api: DEUXwwXAST-olgJ0UHcqRpcoWJXdxFCyTDiRyrjpzjsV
+-url: https://api.au-syd.text-to-speech.watson.cloud.ibm.com/instances/22cae1f0-a8d1-4a4f-a6e3-bf64707ba613
+
+
+Nó STT
+-api: ci6sdwX5areDFWokZiSw0FIANjA_I5BC7OqUWhyvVeKT
+-url: https://api.au-syd.speech-to-text.watson.cloud.ibm.com/instances/6409a72b-8ee6-4922-806e-ae3bc54c3a50
+
+
+Nó TELEGRAM:
+-Nome bot: SalesForce_Bot
+-Username: Sales_Force_Sprint2_Bot
+-Bot token: 6659629558:AAHKi55Bu8x5ciJTMdnIV_3I2SQ8bK3nA54
+
+
